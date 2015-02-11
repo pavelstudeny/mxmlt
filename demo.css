@@ -1,0 +1,126 @@
+@font-face {
+	font-family: "Musica";
+	src: url("MusicaD.ttf");
+}
+
+.support {
+	font-family: "Musica";
+	font-size: 2em;
+	height: 1em;
+	width: 40%;
+	background-image: url('data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxzdHlsZT4NCmxpbmUgew0KIHN0cm9rZTpibGFjazsNCn0NCjwvc3R5bGU+DQogICA8bGluZSB4MT0iMCIgeTE9IjAiIHgyPSIxMDAlIiB5Mj0iMCIvPg0KICAgPGxpbmUgeDE9IjAiIHkxPSIyNSUiIHgyPSIxMDAlIiB5Mj0iMjUlIi8+DQogICA8bGluZSB4MT0iMCIgeTE9IjUwJSIgeDI9IjEwMCUiIHkyPSI1MCUiLz4NCiAgIDxsaW5lIHgxPSIwIiB5MT0iNzUlIiB4Mj0iMTAwJSIgeTI9Ijc1JSIvPg0KICAgPGxpbmUgeDE9IjAiIHkxPSIxMDAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiLz4NCjwvc3ZnPg0K');
+	margin-top: 1em;
+}
+
+#output span {
+	position: relative;
+	color: #330000;
+}
+
+.clef {
+	padding-left: 1em;
+}
+
+.clef.G1{
+	top: -0.2em;
+	font-size: 2em;
+}
+
+.clef.G2{
+	top: -0.35em;
+	font-size: 2em;
+}
+
+.clef.F3{
+	top: -0.2em;
+	font-size: 2em;
+}
+
+.clef.F4{
+	top: -0.19em;
+	font-size: 2em;
+}
+
+.clef.F5{
+	top: -0.35em;
+	font-size: 2em;
+}
+
+.clef.C3{
+	top: -0.2em;
+	font-size: 2em;
+}
+
+.clef.C4{
+	top: -0.35em;
+	font-size: 2em;
+}
+
+.time {
+	top: -1.2em;
+	font-size: 0.7em;
+}
+
+.note {
+	top: -0.8em;
+	font-size: 2em;
+}
+
+
+.note.C4 {
+	top: -0.26em;
+}
+
+.note.D4 {
+	top: -0.33em;
+}
+
+.note.E4 {
+	top: -0.40em;
+}
+
+.note.F4 {
+	top: -0.47em;
+}
+
+.note.G4 {
+	top: -0.52em;
+}
+
+.note.A4 {
+	top: -0.59em;
+}
+
+.note.B4 {
+	top: -0.66em;
+}
+
+
+.note.C5 {
+	top: -0.73em;
+}
+
+.note.D5 {
+	top: -0.80em;
+}
+
+.note.E5 {
+	top: -0.87em;
+}
+
+.note.F5 {
+	top: -0.92em;
+}
+
+.note.G5 {
+	top: -0.99em;
+}
+
+.note.A5 {
+	top: -1.06em;
+}
+
+.note.B5 {
+	top: -1.13em;
+}
+
